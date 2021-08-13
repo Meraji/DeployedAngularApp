@@ -1,0 +1,58 @@
+{
+  "residents": [
+    {
+      "firstname": "ANNE",
+      "surname": "Krabappel",
+      "gender": "male",
+      "username": "edna.krabappel",
+      "address": "82 Evergreen Terrace Springfield",
+      "quote": "Test Quote!",
+      "id": 1
+    },
+    {
+      "firstname": "Homer",
+      "surname": "Simpson",
+      "gender": "male",
+      "username": "homer.simpson",
+      "address": "842 Evergreen Terrace Springfield",
+      "quote": "Here is a example quote!",
+      "id": 2
+    },
+    {
+      "firstname": "Marge",
+      "surname": "Simpson",
+      "gender": "female",
+      "username": "marge.simpson",
+      "address": "742 Evergreen Terrace Springfield",
+      "quote": "Go out on a Tuesday? Who am I, Charlie Sheen?",
+      "id": 3
+    },
+    {
+      "firstname": "Barney",
+      "surname": "Gumble 12",
+      "gender": "female",
+      "username": "barney.gumble 12",
+      "address": "Moes Taverne Springfield",
+      "quote": "Go out on a Tuesday? Who am I, Charlie Sheen?",
+      "id": 4
+    },
+    {
+      "firstname": "Apu",
+      "surname": "Nahasapeemapetilon",
+      "gender": "male",
+      "username": "apu.nahasapeemapetilon",
+      "address": "Kwik-E-Mart Springfield",
+      "quote": "We want chilly-willy! We want chilly-willy!",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "username": "Snowball 2",
+      "gender": "diverse",
+      "firstname": "Snowball",
+      "surname": "2",
+      "address": "742 Evergreen Terrace Springfield",
+      "quote": "Meow..."
+    }
+  ]
+}
